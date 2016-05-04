@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-ibizmobkit",
+  "version": "1.0.0",
+  "description": "ibizsys5.0 mobilekit.",
+  "cordova": {
+    "id": "cordova-plugin-ibizmobkit",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibizsys/ibizmobkit"
+  },
+  "keywords": [
+    "ibizsys"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=5.0.0"
+    }
+  ],
+  "author": "Enmaai <xjtoooo@163.com> (https://github.com/ibizsys)",
+  "license": "Apache License v2.0",
+  "bugs": {
+    "url": "https://github.com/ibizsys/ibizmobkit/issues"
+  },
+  "homepage": "https://github.com/ibizsys/ibizmobkit"
+}
