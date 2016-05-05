@@ -14,6 +14,7 @@
     <dependency id="cordova-plugin-geolocation" version="^2.2.0" />
     <dependency id="cordova-plugin-camera" version="^2.2.0" />
     <dependency id="cordova-plugin-media" version="^2.3.0" />
+    <dependency id="cordova-plugin-image-picker" version="^1.1.1" />
     
 	<js-module src="www/ibizmobkit.js" name="ibizmobkit">
         <merges target="window.plugins.ibizmobkit" />
