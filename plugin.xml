@@ -23,7 +23,7 @@
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
             <feature name="ibizmobkit">
-                <param name="ios-package" value="ibizmobkit" />
+                <param name="ios-package" value="IBizMobKit" />
                 <param name="onload" value="true" />
             </feature>
         </config-file>
