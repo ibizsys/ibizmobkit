@@ -18,6 +18,7 @@
 	<js-module src="www/ibizmobkit.js" name="ibizmobkit">
         <merges target="window.plugins.ibizmobkit" />
     </js-module>
+    
     <!-- ios -->
     <platform name="ios">
         <config-file target="config.xml" parent="/*">
