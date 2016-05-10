@@ -39,4 +39,15 @@
 
         <framework src="Security.framework" />
     </platform>
+    
+     <!-- android -->
+    <platform name="android">
+        <config-file target="res/xml/config.xml" parent="/*">
+            <feature name="IBizMobKit" >
+                <param name="android-package" value="org.apache.cordova.ibizmobkit.IBizMobKit"/>
+            </feature>
+        </config-file>
+
+        <source-file src="src/android/IBizMobKit.java" target-dir="src/org/apache/cordova/ibizmobkit" />
+    </platform>
 </plugin>
